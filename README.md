@@ -19,7 +19,7 @@ Live Project : https://beniaminav.github.io/Dashboard/
 ![4](https://user-images.githubusercontent.com/57075208/220955338-e8739514-cbfa-4ebc-96f6-992cf98b3b6c.png)
 
 5. Chart Page
-
+ 
 ![5](https://user-images.githubusercontent.com/57075208/220955445-0b32307d-4d46-4de2-b4c3-c258096c814f.png)
 
 
